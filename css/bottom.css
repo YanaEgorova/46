@@ -1,0 +1,33 @@
+.bottom__wrapper {
+    background-image: url('../img/img2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+}
+.bottom__wrapper::after {
+    position: absolute;
+    display: block;
+    content: '';
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, .7);
+    z-index: 1;
+    top: 0;
+    left: 0;
+}
+.bottom {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10rem;
+    position: relative;
+    z-index: 2;
+}
+.bottom__title {
+    text-shadow: none;
+    color: var(--sub-text-color);
+}
+@media screen and (min-width: 1024px) {
+    
+}

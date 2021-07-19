@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Dosis';
+    src: url('../fonts/Dosis-Book.eot');
+    src: url('../fonts/Dosis-Book.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Dosis-Book.woff2') format('woff2'),
+        url('../fonts/Dosis-Book.woff') format('woff'),
+        url('../fonts/Dosis-Book.ttf') format('truetype'),
+        url('../fonts/Dosis-Book.svg#Dosis-Book') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Indigo Outline Font';
+    src: url('../fonts/IndigoOutlineFont-Regular.eot');
+    src: url('../fonts/IndigoOutlineFont-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/IndigoOutlineFont-Regular.woff2') format('woff2'),
+        url('../fonts/IndigoOutlineFont-Regular.woff') format('woff'),
+        url('../fonts/IndigoOutlineFont-Regular.ttf') format('truetype'),
+        url('../fonts/IndigoOutlineFont-Regular.svg#IndigoOutlineFont-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Indigo';
+    src: url('../fonts/IndigoRegular-Regular.eot');
+    src: url('../fonts/IndigoRegular-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/IndigoRegular-Regular.woff2') format('woff2'),
+        url('../fonts/IndigoRegular-Regular.woff') format('woff'),
+        url('../fonts/IndigoRegular-Regular.ttf') format('truetype'),
+        url('../fonts/IndigoRegular-Regular.svg#IndigoRegular-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+

@@ -1,0 +1,14 @@
+:root {
+    --main-bg-color: #fff;
+    --sub-bg-color: #000;
+    --main-text-color: #0f1012;
+    --sub-text-color: #fff;
+    --accent-color: red;
+    --first-brand-color: #4e362a;
+    --second-brand-color: #698fa2;
+    --third-brand-color: #c7c7c7;
+    --title-font: 'Indigo';
+    --main-font: 'Dosis';
+    
+    font-size: 62.5%;
+}
